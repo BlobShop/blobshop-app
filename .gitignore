@@ -1,3 +1,7 @@
+###> Phpstorm ###
+/.idea/
+###< Phpstorm ###
+
 
 ###> symfony/framework-bundle ###
 /.env.local
